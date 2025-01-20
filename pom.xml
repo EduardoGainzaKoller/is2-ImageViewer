@@ -13,7 +13,7 @@
         <maven.compiler.target>21</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.version>1.0-SNAPSHOT</project.version>
-        <project.artifactId>ImageViewer_</project.artifactId>
+        <project.artifactId>imageViewer_</project.artifactId>
         <project.groupId>software.ulpgc</project.groupId>
     </properties>
 
